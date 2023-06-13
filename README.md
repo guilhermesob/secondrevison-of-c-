@@ -1,2 +1,2 @@
-# secondrevison-of-c-
+# secondrevison-of-c++
 second revision of c++
